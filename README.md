@@ -1,0 +1,2 @@
+# HTScore
+HTScore for Hattrick
